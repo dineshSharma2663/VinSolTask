@@ -1,0 +1,15 @@
+PODS:
+  - IQKeyboardManagerSwift (4.0.10)
+  - NVActivityIndicatorView (3.6.1)
+
+DEPENDENCIES:
+  - IQKeyboardManagerSwift
+  - NVActivityIndicatorView
+
+SPEC CHECKSUMS:
+  IQKeyboardManagerSwift: 75ba21a23794a1e6b6fe6d9a267ea17f80e06771
+  NVActivityIndicatorView: 9f52a7f84bf5c6a798722c450fe3c198e01c56ed
+
+PODFILE CHECKSUM: 3c5063447446f32f1de29f8af99115b8ac8e9579
+
+COCOAPODS: 1.4.0.rc.1
